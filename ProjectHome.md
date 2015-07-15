@@ -1,0 +1,1 @@
+Proposed Drag-and-Drop Framework for Google Web Toolkit
